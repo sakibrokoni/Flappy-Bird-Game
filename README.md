@@ -3,7 +3,7 @@ Flappy Bird game project for OOP II Lab
 
 Fall 2020
 
-Team Memebers
+Team Members
 
 Raduan Ahamad ID: 191-15-12943 Sec: O14
 
